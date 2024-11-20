@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateProblematicPdfs", "CreateProblematicPdfs\CreateProblematicPdfs.csproj", "{3130EF9F-F078-4A9A-9CAB-BE61AF479014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3130EF9F-F078-4A9A-9CAB-BE61AF479014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3130EF9F-F078-4A9A-9CAB-BE61AF479014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3130EF9F-F078-4A9A-9CAB-BE61AF479014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3130EF9F-F078-4A9A-9CAB-BE61AF479014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E4D9EC-B3AE-432F-830D-6F08D8D75031}
+	EndGlobalSection
+EndGlobal
